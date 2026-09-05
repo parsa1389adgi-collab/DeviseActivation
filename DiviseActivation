@@ -1,13 +1,13 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
+        "device_id": "ali",
+        "key": "1235",
         "expirydate": "31-12-2027",
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
+        "device_id": "parsa",
+        "key": "224",
         "expirydate": "15-06-2028",
         "Allowoffline": false
     }
