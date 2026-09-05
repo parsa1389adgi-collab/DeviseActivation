@@ -1,12 +1,12 @@
 [
     {
-        "device_id": "27a078ae3454bfd9",
+        "device_id": "27a078ae345455bfd9",
         "key": "1235",
         "expirydate": "31-12-2027",
         "Allowoffline": true
     },
     {
-        "device_id": "parsa",
+        "device_id": "27a078ae3454bfd9",
         "key": "224",
         "expirydate": "15-06-2028",
         "Allowoffline": false
